@@ -1,0 +1,3 @@
+[[Rusell, Bertrand]]
+
+[[Goodstein]]
