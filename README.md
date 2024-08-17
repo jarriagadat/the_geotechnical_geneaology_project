@@ -1,5 +1,5 @@
-# the_geotechnical_geneaology_project
-The Geotechnical Genealogy Project
+# The Geotechnical Genealogy Project
+Arriagada, J.A. 2023-2024
 
 ## Mission Statement
 This project aim is to creat a DB about all the people who have contibuted to the development and research of geotechnical engineering as a broad discipline ((soil and rock mechanics, civil, mining and other mathematics, physics, etc.).
