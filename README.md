@@ -6,6 +6,9 @@ This project aim is to creat a DB about all the people who have contibuted to th
 
 Currently is being developed in Obsidian to be published as a interactive website in the near future.
 
+![The Geotechnical Genealogy Project]([http://url/to/img.png](https://github.com/jarriagadat/the_geotechnical_geneaology_project/blob/main/2024_1708%20Graph_v01.jpg))
+
+
 ## References
 This project is inspired in the Mathematics Genealogy Project, Department of Mathematics, North Dakota State University.
 https://genealogy.math.ndsu.nodak.edu/mission.php
